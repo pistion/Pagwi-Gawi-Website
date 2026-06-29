@@ -1,0 +1,36 @@
+export const images = {
+  hero: '/images/hero.jpg',
+  aboutTeam: '/images/about-team.jpg',
+  aboutFounder: '/images/about-founder.jpg',
+  aboutStory: '/images/about-story.jpg',
+  services: {
+    events: '/images/service-events.jpg',
+    sports: '/images/service-sports.jpg',
+    church: '/images/service-church.jpg',
+    music: '/images/service-music.jpg',
+    community: '/images/service-community.jpg',
+  },
+  work: {
+    sportsCup: '/images/Regional Cup Finals.png',
+    churchConvention: '/images/Annual Convention.png',
+    musicFest: '/images/Summer Sound Fest.png',
+    youthLeague: '/images/Youth League Launch.png',
+    communityOutreach: '/images/Community Outreach.png',
+    worshipNight: '/images/Praise&Worship.png',
+  },
+  team: [
+    '/images/team-1.jpg',
+    '/images/team-2.jpg',
+    '/images/team-3.jpg',
+    '/images/team-4.jpg',
+  ],
+  news: {
+    featured: '/images/news-featured.jpg',
+    News: '/images/news-news.jpg',
+    Events: '/images/news-events.jpg',
+    Community: '/images/news-community.jpg',
+    Sports: '/images/news-sports.jpg',
+    Music: '/images/news-music.jpg',
+    Church: '/images/news-church.jpg',
+  },
+};
